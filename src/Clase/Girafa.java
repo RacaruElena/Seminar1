@@ -7,6 +7,6 @@ public class Girafa extends Animal{
 
     @Override
     public void mananca(String tipMancare) {
-        System.out.println("Girafa " + getNume() + "mananca" + tipMancare);
+        System.out.println("Girafaa " + getNume() + "mananca" + tipMancare);
     }
 }
